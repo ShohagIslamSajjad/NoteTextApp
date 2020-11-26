@@ -1,0 +1,62 @@
+.sec1 {
+  background-color: ;
+  height: 650px;
+  box-shadow: 1px 2px 3px #1c0878, 1px 2px 3px #1c0878,
+    inset 10px 5px 500px blue, inset 50px 50px 100px blue;
+}
+.divA {
+  width: 400px;
+  height: 490px;
+  margin: auto;
+  box-shadow: 3px 2px 2px 1px blue, -3px -2px 2px 1px blue;
+  border-radius: 3px;
+}
+input {
+  height: 40px;
+  border-radius: 3px;
+  text-color: #292929;
+  font-size: 20px;
+}
+button {
+  height: 40px;
+  min-width: 100px;
+  border-radius: 3px;
+}
+a {
+  height: 20px;
+  width: 105px;
+}
+pre {
+  font-size: 25px;
+  color: cadetblue;
+  border-radius: 3px;
+  padding: 5px;
+  overflow:none;
+}
+.di1 {
+  width: 0px;
+  border-radius: 3px;
+  transition: 0.5s;
+  transform: scaleY(0);
+}
+
+.s11 {
+  width: auto;
+  transform: scaleY(1);
+}
+.span1{
+  color:red;
+  float:right;
+  background-color:chocolate;
+  border-radius: 5px;
+  font-size: 15px;
+  padding:px;
+}
+.span1:hover{
+  color:blue;
+}
+.divStore{
+  height: 340px;
+  width:100%;
+  overflow-y: auto;
+}
